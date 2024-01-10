@@ -1,9 +1,9 @@
 <h1>Bitcoin Database</h1>
 
  <h2>Description</h2>
-This is the first step in building a market pricing database.
-This can be used for logging, backtesting, and spotting anomolies in price.
 This code scrapes historical market data from from Binance Echange by connecting directly to the Binance API
+This is the first step in building a market pricing database.
+This can be used for logging, backtesting, and spotting anomolies.
 (Must be outside of USA to connect to Binance API)
 
 <h2>Languages and Utilities Used</h2>
