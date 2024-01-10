@@ -22,10 +22,10 @@ Binance Scraper <br/>
 
 <p align="center">
 Organize The Data :  <br/>
-<img src="https://i.imgur.com/5WCsqJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A8ahf3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
-Indexx The Data <br/>
+Index The Data <br/>
 <img src="https://i.imgur.com/NkykXxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
