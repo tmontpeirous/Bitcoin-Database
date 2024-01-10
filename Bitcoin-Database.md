@@ -21,7 +21,7 @@ Binance Scraper <br/>
 <br />
 
 <p align="center">
-Organize The Data :  <br/>
+Organize The Data <br/>
 <img src="https://i.imgur.com/2EIx9e0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
