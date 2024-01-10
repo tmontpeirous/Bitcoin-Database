@@ -16,16 +16,16 @@ This code scrapes historical market data from from Binance Echange by connecting
 
 <p align="center">
 Binance Scraper <br/>
-<img src="https://i.imgur.com/A99PgMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QpQBsti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 Organize The Data :  <br/>
-<img src="https://i.imgur.com/A8ahf3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2EIx9e0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 Index The Data <br/>
-<img src="https://i.imgur.com/NkykXxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/OSXXKE8.pngg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
