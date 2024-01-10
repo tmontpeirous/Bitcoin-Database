@@ -9,38 +9,23 @@ This code scrapes historical market data from from Binance Echange by connecting
 <h2>Languages and Utilities Used</h2>
 - <b>Python</b> 
 - <b>Binance API </b>
- 
- <h2>Binance Scraper </h2>
- 
-csvfile = open("6Hour2017", "w", newline='')
-candlestick_writer= csv.writer(csvfile, delimiter=',')
-candlestick_writer.writerow(candlestick)
-candlesticks = client.get_historical_klines("BTCUSDT",
-Client.KLINE_INTERVAL_6HOUR, "1 Jan, 2016", "16 May, 2023")
-for candlestick in candlesticks: candlestick_writer.writerow(candlestick)
-csvfile.close()
-df= pd.read_csv("6Hour2017",index_col = 0, parse_dates = [0])
 
- <h2>Organize The Data By Renaming the Columns</h2>
+<h2>Program walk-through:</h2>
 
-df = df.reset_index()
-df.columns = [
-    "Open time",
-    "Open",
-    "High",
-    "Low",
-    "Close",
-    "Volume",
-    "Close time",
-    "Quote asset volume",
-    "Number of trades",
-    "Taker buy base asset volume",
-    "Taker buy quote asset volume",
-    "Ignore"
-]
 
-https://ibb.co/W6sC5Jw
 
-<h2>Set The Index</h2>
+<p align="center">
+Binance Scraper <br/>
+<img src="https://i.imgur.com/A99PgMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
-df = df.set_index('Datetime')
+<p align="center">
+Organize The Data :  <br/>
+<img src="https://i.imgur.com/5WCsqJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Indexx The Data <br/>
+<img src="https://i.imgur.com/NkykXxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
